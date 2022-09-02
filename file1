@@ -1,1 +1,8 @@
 hi i am ganesh 
+int main
+{
+printf("Hello World");
+
+Getch()
+Return 0
+}
